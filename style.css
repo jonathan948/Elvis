@@ -1254,6 +1254,17 @@
         margin-top: 10%;
         margin-bottom: 20px;
     }
+
+    .main1-btn:hover{
+        border: solid 2px white;
+        padding: 10px;
+        width: 80%;
+        text-transform: uppercase;
+        background-color: rgb(223, 89, 89);
+        transition: 0.6s ease-in;
+        transition-duration:  0.7s;
+        color: white;
+    }
     
     
     .main2-btn{
@@ -1263,6 +1274,10 @@
         top: 10px;
         margin: 0 auto;
     }
+
+    .main2-btn:hover{
+        width: 80%;
+    }
     
     .main3-btn{
         width: 80%;
@@ -1271,6 +1286,11 @@
         margin-bottom: 20px;
         margin-top: 10%;
     }
+
+    .main3-btn:hover{
+        width: 80%;
+    }
+
     
     .main4-btn{
         width: 80%;
@@ -1281,6 +1301,10 @@
         display: block;
         margin-bottom: 20px;
     }
+
+    .main4-btn:hover{
+        width: 80%;
+    }
     
     .main5-btn{
         width: 80%;
@@ -1288,6 +1312,10 @@
         display: block;
         margin-bottom: 20px;
         margin-top: 10%;;
+    }
+
+    .main5-btn:hover{
+        width: 80%;
     }
     
     .main6-btn{
@@ -1299,6 +1327,10 @@
         display: block;
         margin-bottom: 20px;
     }
+
+    .main6-btn:hover{
+        width: 80%;
+    }
     
     .main7-btn{
         width: 80%;
@@ -1308,7 +1340,9 @@
         margin-top: 10%;;
     }
     
-    
+    .main7-btn:hover{
+        width: 80%;
+    }
     .main8-btn{
         width: 80%;
         position: relative;
@@ -1319,6 +1353,9 @@
         margin-bottom: 20px;
     }
     
+    .main8-btn:hover{
+        width: 80%;
+    }
     
     .main9-btn{
         width: 80%;
@@ -1326,6 +1363,10 @@
         display: block;
         margin-bottom: 20px;
         margin-top: 10%;;
+    }
+
+    .main9-btn:hover{
+        width: 80%;
     }
     
     .main10-btn{
@@ -1336,6 +1377,10 @@
         margin: 0 auto;
         display: block;
         margin-bottom: 20px;
+    }
+
+    .main10-btn:hover{
+        width: 80%;
     }
     
     .get-btn {
