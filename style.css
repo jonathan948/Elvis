@@ -1191,6 +1191,13 @@
         margin-right: 27rem;
         display: block;
     }
+
+    .jj{
+        margin-top: 0%;
+        margin: 0 auto;
+        display: block;
+        margin-left: 10%;
+    }
     
     .openbtn{
         font-size:28px;
@@ -1626,6 +1633,13 @@
     display: block;
 }
 
+.jj{
+    margin-top: 0%;
+    margin: 0 auto;
+    display: block;
+    margin-left: 10%;
+}
+
 .openbtn{
     font-size:28px;
     cursor:pointer; 
@@ -2013,6 +2027,13 @@
         width: 100%;
         z-index: 1;
         display: none;
+    }
+
+    .jj{
+        margin-top: 0%;
+        margin: 0 auto;
+        display: block;
+        margin-left: 10%;
     }
     
     .banner {
@@ -2409,6 +2430,13 @@
         width: 100%;
         z-index: 1;
         display: none;
+    }
+
+    .jj{
+        margin-top: 0%;
+        margin: 0 auto;
+        display: block;
+        margin-left: 10%;
     }
     
     .banner {
@@ -2808,6 +2836,13 @@
         z-index: 1;
         display: none;
     }
+
+    .jj{
+        margin-top: 0%;
+        margin: 0 auto;
+        display: block;
+        margin-left: 10%;
+    }
     
     .banner {
         background: #d24d57 url(./image/banner.png) 50% 0 no-repeat fixed;
@@ -2852,14 +2887,14 @@
     .nav-btn{
         border: solid 2px white;
         padding: 20px;
-        width: 80%;
+        width: 90%;
         margin-right: 0%;
     }
 
     .nav-btn:hover{
         border: solid 2px white;
         padding: 20px;
-        width: 80% !important;
+        width: 90% !important;
     }
     
     .main1-btn{
